@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {},
+  "name": "hjlazy",
+  "description": "a wheel of lazyload use es6 (HJproject)",
+  "version": "0.0.1",
+  "main": "HJlazy.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwyj123/hjlazy.git"
+  },
+  "keywords": [
+    "lazyload",
+    "es6"
+  ],
+  "author": "lwyj123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwyj123/hjlazy/issues"
+  },
+  "homepage": "https://github.com/lwyj123/hjlazy#readme"
+}
